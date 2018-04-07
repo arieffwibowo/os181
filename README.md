@@ -5,4 +5,4 @@ ZCZC W02 Week02 Demo:done! <br />
 ZCZC W03 Week 03 is done <br />
 ZCZC W04 Week 04 is done <br />
 ZCZC W05 Week 05 is done <br />
-ZCZC W05 Week 06 is done <br />
+ZCZC W06 Week 06 is done <br />
